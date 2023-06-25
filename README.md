@@ -102,7 +102,7 @@ absorve a "title", "main" se queda con todas las modificaciones realizadas en la
     git tag htmlify 15fad70<br />
     git tag title 81f6f38<br />
     
-35) git chekcout htmlify<br />
+35) git checkout htmlify<br />
 
 
 subir a github:<br />
